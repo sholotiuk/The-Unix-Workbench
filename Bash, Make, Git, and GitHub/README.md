@@ -1,6 +1,6 @@
-The Unix Workbench Course Peer-Graded Assignment
+## The Unix Workbench Course Peer-Graded Assignment
 
-* Description: *
+**Description:**
 * make a program called guessinggame.sh. 
 * This program should continuously ask the user to guess the number of files in the current directory, until they guess the correct number. 
 * The user is informed if their guess is too high or too low. 
